@@ -1,0 +1,28 @@
+HTML + BS:
+- Keszits weboldalt, ahol jarmuveket lehet felvinni
+    - A h1 cim legyen: Jarmuvek felvitele
+- Keszits urlapot (BS-nek megfeleloen >> form-group, valamin egyeb classok),
+ahol a jarmuvek felvihetoek:
+    - Rendszam
+    - Gyarto
+    - Tipus
+    - Forgalombahelyezes ideje (datum)
+- Az urlapon legyen egy BS zold szinu gomb is
+- Keszits egy alap tablazatot, amibe a jarmuvek megjelenhetnek
+    - Ehhez a funkcionalitast meg nem kell elkesziteni
+
+================================================================================
+
+JS:
+- Oldd meg, hogy a felvitel gombra kattintva Jarmu objektumok jojjenek letre,
+amiket el is helyezel a BS tablazatban
+
+================================================================================
+
+Teszteld le, hogy:
+    - Az elso H1 tartalma Jarmuvek felvitele-e
+    - Hogy az elso input text tipusu-e
+    - Hogy a negyedik input date tipusu-e
+    - Hogy az elso div class listaja tartalmazza-e a container classt
+    - Hogy a harmadik th tartalma Tipus-e
+- Az eredmenyeket egy masik BS tablaban jelenitsd meg
