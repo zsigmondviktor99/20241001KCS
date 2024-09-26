@@ -26,3 +26,5 @@ Teszteld le, hogy:
     - Hogy az elso div class listaja tartalmazza-e a container classt
     - Hogy a harmadik th tartalma Tipus-e
 - Az eredmenyeket egy masik BS tablaban jelenitsd meg
+
+asd
