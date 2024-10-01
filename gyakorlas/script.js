@@ -1,4 +1,3 @@
-//Komment
 document.getElementById("felvitel").addEventListener("click", function(){
     var auto = {
         rendszam: document.getElementById("rendszam").value,
